@@ -22,7 +22,7 @@
 (˶ᵔ ᵕ ᵔ˶)   nome     →  Maria Clara Cardoso Cagniato
   ( づ♡    formação →  Técnica em Informática para Internet — ETEC ✓
                     →  Gestão da TI — Unianchieta (cursando 💜)
-            local    →  Campo Limpo Paulista, SP 📍
+            local    →  Jundiaí, SP 📍
             idiomas  →  Português nativo · Inglês B1 🌍
 ```
 
